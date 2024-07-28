@@ -1,2 +1,3 @@
 .databricks
 farmers*.json
+*.pyc
